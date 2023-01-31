@@ -9,6 +9,9 @@ Pkg.add("IJulia")
 # JSON parser
 Pkg.add("JSON")
 
+# common use
+Pkg.add("Printf")
+
 # numpy-ish
 Pkg.add("Distributions")
 Pkg.add("Random")
@@ -22,3 +25,8 @@ Pkg.add("Plots")
 Pkg.add("Convex")
 Pkg.add("SCS")
 Pkg.add("ECOS")
+
+# graph inference (STN - cs238)
+Pkg.add("Graphs")
+Pkg.add("JuMP")
+Pkg.add("ForwardDiff")
