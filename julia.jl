@@ -28,5 +28,11 @@ Pkg.add("ECOS")
 
 # graph inference (STN - cs238)
 Pkg.add("Graphs")
+
+# tikz
+Pkg.add("TikzGraphs")
+Pkg.add("TikzPictures")
+
+# applied math
 Pkg.add("JuMP")
 Pkg.add("ForwardDiff")
