@@ -30,8 +30,8 @@ Pkg.add("ECOS")
 Pkg.add("Graphs")
 
 # tikz
-Pkg.add("TikzGraphs")
-Pkg.add("TikzPictures")
+# Pkg.add("TikzGraphs")
+# Pkg.add("TikzPictures")
 
 # applied math
 Pkg.add("JuMP")
