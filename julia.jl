@@ -34,5 +34,12 @@ Pkg.add("Graphs")
 # Pkg.add("TikzPictures")
 
 # applied math
-Pkg.add("JuMP")
 Pkg.add("ForwardDiff")
+Pkg.add("SpecialFunctions")
+
+# data representations
+Pkg.add("CSV")
+
+# optimizers
+Pkg.add("JuMP")
+Pkg.add("GLPK")
